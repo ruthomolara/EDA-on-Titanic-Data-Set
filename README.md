@@ -1,4 +1,5 @@
 # EDA-on-Titanic-Data-Set
+![Titanic_Portside_Diagram](https://github.com/user-attachments/assets/8cee6fc5-c621-4d7b-81b8-ea057ef0de8b)
 
 Data Description
 The Titanic dataset is a widely used dataset for machine learning and data analysis, containing information about the passengers of the RMS Titanic, which sank on its maiden voyage in 1912. The dataset includes various attributes for each passenger, such as:
